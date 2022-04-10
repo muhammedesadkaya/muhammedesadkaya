@@ -20,7 +20,7 @@ Solving problems with Elixir and lovin' life <img height ="20" src= "https://cam
 
 ##### 📫 &nbsp; How to reach me:
 
-<a href="https://www.linkedin.com/in/muhammed-esad-kaya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/muhammed-esad-kaya/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=whit"/></a> &nbsp;
 <a href="https://medium.com/@muhammedesadkaya"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> &nbsp;
-<a href="mailto:muhammedesadkaya@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:muhammedesadkaya@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
