@@ -6,4 +6,4 @@ Solving problems with Elixir and lovin' life <img height ="20" src= "https://cam
 
 **Languages I have used**
 
-https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />  
