@@ -7,8 +7,9 @@ Solving problems with Elixir and lovin' life <img height ="20" src= "https://cam
 ### 🛠 &nbsp;Tech Stack
 
 <table>
-  <tr>![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;</tr>
-  <tr>![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;</tr>
+  <tr>
+    <td> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></td>
+  </tr>
 </table>
 
 ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;  
